@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>صفحه دوم - OTI</title>
+  <style>
+    body {
+      background-color: #e8f5e9;
+      font-family: Tahoma, sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+      color: #1b5e20;
+    }
+    a {
+      text-decoration: none;
+      color: #2e7d32;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>این صفحه دوم سایت OTI است</h1>
+  <p>خوش اومدی به ادامه سایت!</p>
+  <br>
+  <a href="index.html">برگشت به صفحه اصلی</a>
+</body>
+</html>
